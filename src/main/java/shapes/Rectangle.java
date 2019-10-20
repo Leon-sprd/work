@@ -1,4 +1,4 @@
-
+```java
 package shapes;
 
 public class Rectangle extends Shape {
@@ -24,3 +24,4 @@ public class Rectangle extends Shape {
         return 4;
     }
 }
+```
